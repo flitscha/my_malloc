@@ -9,8 +9,9 @@ if you have 'gcc' and 'make' installed, you can simply run the following command
 
 ```bash
 make
-
+```
 
 To run the program, simply execute this command:
 ```bash
 ./my_malloc
+```
