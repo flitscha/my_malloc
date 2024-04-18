@@ -167,6 +167,6 @@ int main(void) {
     my_malloc(p, 50);
     //print_memory(p);
     print_memory_visual(p, 200);  
-
+    free(p);
     return EXIT_SUCCESS;
 }
